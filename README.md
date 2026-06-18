@@ -1,108 +1,90 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:1A73E8,100:0D47A1&height=200&section=header&text=MADHAN%20MOHAN&fontSize=52&fontColor=ffffff&fontAlignY=55&desc=AI%20Agent%20Engineer%20%E2%80%94%20Build%20%C2%B7%20Scale%20%C2%B7%20Govern%20%C2%B7%20Optimize&descSize=16&descAlignY=75&descFontColor=90CAF9" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Hi+there%2C+I'm+Madhan+%F0%9F%91%8B;AI+Agent+Engineer;Build+%C2%B7+Scale+%C2%B7+Govern+%C2%B7+Optimize;Google+ADK+%7C+Gemini+Enterprise" alt="Typing SVG" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Madhan-mohan14&color=58A6FF&style=flat-square&label=profile+views)
+![Followers](https://img.shields.io/github/followers/Madhan-mohan14?color=58A6FF&style=flat-square&logo=github&label=followers)
 
 </div>
 
-<br>
-
-```bash
-$ adk run --agent profile "Who is Madhan?"
-
-  ► QueryRewriteAgent   expanding query...
-  ► SearchPlanAgent     routing → PROFILE_CORPUS
-  ► RetrievalAgent      chunks retrieved: 4
-  ─────────────────────────────────────────────────────
-    Chennai, India  ·  AI Agent Engineer
-    Build  ·  Scale  ·  Govern  ·  Optimize
-    Google ADK  +  Gemini Enterprise Agent Platform
-  ─────────────────────────────────────────────────────
-  ► CriticAgent         STRONG
-  ► AnswerAgent         confidence: 1.0  ✓
-```
-
-<br>
-
-I build **production-grade AI agent systems** — the kind that cite their sources, pass rigorous evals before shipping, and defend against prompt injection before a single LLM call is made. Currently working on the intersection of **Gemini Enterprise**, **Vertex AI Agent Runtime**, and real-world financial intelligence.
-
-<br>
-
 ---
 
-## 📡 Status
+## 🚀 About Me
 
 ```
-🔭  Building    →  agentic-retrieval — multi-agent RAG, live on Vertex AI Agent Runtime
-🤖  Platform    →  Google ADK · Gemini Enterprise · Vertex AI RAG Engine
-📊  Latest      →  49/50 ADK eval pass · hallucinations_v1 = 1.0 on all 50 cases  
+🔭  Building    →  Production AI agents on Vertex AI Agent Runtime
+🤖  Platform    →  Google ADK  ·  Gemini Enterprise Agent Platform
+📊  Focus       →  Build  ·  Scale  ·  Govern  ·  Optimize
 📍  Location    →  Chennai, India
 ```
 
+I engineer production-grade multi-agent systems — connecting **Google ADK**, **Gemini Enterprise**, and **Vertex AI** into pipelines that ship, scale, and stay secure.
+
 ---
 
-## 🛠 Stack
+## 🛠 Tech Stack
 
-**Agent Platform**
+**🤖 Agent Platform**
 
-![Google ADK](https://img.shields.io/badge/Google%20ADK-latest-1A73E8?style=flat-square&logo=google&logoColor=white)
-![Gemini Enterprise](https://img.shields.io/badge/Gemini%20Enterprise-Agent%20Platform-1A73E8?style=flat-square&logo=google&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-Agent%20Runtime-0D47A1?style=flat-square&logo=google-cloud&logoColor=white)
-![RAG Engine](https://img.shields.io/badge/RAG%20Engine-Vertex%20AI-0D47A1?style=flat-square&logo=google-cloud&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-latest-58A6FF?style=flat-square&logo=google&logoColor=white)
+![Gemini Enterprise](https://img.shields.io/badge/Gemini_Enterprise-Agent_Platform-58A6FF?style=flat-square&logo=google&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-Agent_Runtime-1565C0?style=flat-square&logo=google-cloud&logoColor=white)
+![RAG Engine](https://img.shields.io/badge/RAG_Engine-Vertex_AI-1565C0?style=flat-square&logo=google-cloud&logoColor=white)
 
-**APIs & Business Tooling**
+**🔧 APIs & Tooling**
 
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Clay](https://img.shields.io/badge/Clay-Enrichment-EA4335?style=flat-square&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Clay](https://img.shields.io/badge/Clay-Data_Enrichment-58A6FF?style=flat-square&logoColor=white)
 ![HubSpot](https://img.shields.io/badge/HubSpot-CRM-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-REST-009688?style=flat-square&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Languages & Cloud**
+**💻 Languages & Cloud**
 
-![Python](https://img.shields.io/badge/Python-3.12-1A73E8?style=flat-square&logo=python&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-Platform-1A73E8?style=flat-square&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 🚀 Featured Work
-
-### [agentic-retrieval](https://github.com/Madhan-mohan14/agentic-retrieval) — GS Financial Intelligence Agent
-
-> Multi-agent RAG system answering natural-language questions on Goldman Sachs SEC filings — with citations, hallucination checks, and production security.
-
-| Metric | Result |
-|--------|--------|
-| ADK Eval (50 cases) | **49/50 PASS** |
-| Hallucinations | **1.0 on all 50 cases** |
-| RAGAS Faithfulness | 0.84 – 0.97 across 3 sets |
-| Security (8 attack categories) | **100% blocked · 0 false positives** |
-| Deployment | Live · Vertex AI Agent Runtime |
-
-**Pipeline:** `QueryRewriteAgent → SearchPlanAgent → CustomRetrievalAgent → CriticAgent → AnswerAgent`  
-**Retrieval:** Hybrid search (dense + sparse, α=0.5) · RRF cross-corpus fusion  
-**Security:** Deterministic regex gate + LLM semantic check (defense-in-depth)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 📈 Activity
+## 🏆 Trophies
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhan-mohan14&theme=react-dark&bg_color=0D1117&color=1A73E8&line=1A73E8&point=EA4335&area=true&hide_border=true" width="100%" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Madhan-mohan14&theme=algolia&no-frame=true&margin-w=6&row=1&column=7" width="100%" />
+</div>
 
 ---
 
 ## 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Madhan-mohan14&show_icons=true&theme=react&bg_color=0D1117&title_color=1A73E8&icon_color=EA4335&text_color=90CAF9&border_color=1A73E8&hide_border=false&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan-mohan14&layout=compact&theme=react&bg_color=0D1117&title_color=1A73E8&text_color=90CAF9&border_color=1A73E8&langs_count=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Madhan-mohan14&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan-mohan14&layout=compact&theme=algolia&hide_border=true&langs_count=6" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Madhan-mohan14&theme=dark&background=0D1117&ring=1A73E8&fire=EA4335&currStreakLabel=1A73E8&sideLabels=90CAF9&dates=555555&hide_border=false&border=1A73E8" />
+  <img src="https://streak-stats.demolab.com?user=Madhan-mohan14&theme=algolia&hide_border=true" />
 </div>
+
+---
+
+## 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhan-mohan14/Madhan-mohan14/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhan-mohan14/Madhan-mohan14/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Madhan-mohan14/Madhan-mohan14/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+---
+
+## 📈 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhan-mohan14&bg_color=050F2C&color=58A6FF&line=58A6FF&point=F78166&area=true&hide_border=true" width="100%"/>
 
 ---
 
@@ -110,17 +92,11 @@ I build **production-grade AI agent systems** — the kind that cite their sourc
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhan%20Mohan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhan-mohan-naidu-mareneni-861443340/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhan_Mohan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhan-mohan-naidu-mareneni-861443340/)
 [![Gmail](https://img.shields.io/badge/Gmail-madhanmohan1413-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhanmohan1413@gmail.com)
 
-</div>
+<br/>
 
-<br>
-
-<div align="center">
-
-*"Ship beats perfect — but eval beats shipping blind."*
+<sub><i>Ship beats perfect — but eval beats shipping blind.</i></sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0D47A1,100:1A73E8&height=120&section=footer&reversal=true" />
