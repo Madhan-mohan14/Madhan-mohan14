@@ -68,13 +68,19 @@
 
 ---
 
-## 🐍 Contributions
+## 🌐 Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Madhan-mohan14/Madhan-mohan14/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Madhan-mohan14/Madhan-mohan14/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Madhan-mohan14/Madhan-mohan14/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Madhan-mohan14/Madhan-mohan14/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+</div>
+
+---
+
+## 😄 Today's Joke
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=algolia&hideBorder" alt="Jokes Card" />
+</div>
 
 ---
 
