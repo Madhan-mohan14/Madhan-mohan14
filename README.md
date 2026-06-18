@@ -44,43 +44,6 @@ I engineer production-grade multi-agent systems — connecting **Google ADK**, *
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Madhan-mohan14&theme=algolia&no-frame=true&margin-w=6&row=1&column=7" width="100%" />
-</div>
-
----
-
-## 📊 Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Madhan-mohan14&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&hide_border=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan-mohan14&layout=compact&theme=algolia&hide_border=true&langs_count=6" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Madhan-mohan14&theme=algolia&hide_border=true" />
-</div>
-
----
-
-## 📈 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhan-mohan14&bg_color=050F2C&color=58A6FF&line=58A6FF&point=F78166&area=true&hide_border=true" width="100%"/>
-
----
-
-## 📅 Contributions
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/Madhan-mohan14" alt="Madhan's Contribution Chart" width="100%" />
-</div>
-
----
-
 ## 🤝 Connect
 
 <div align="center">
