@@ -31,7 +31,7 @@
 <summary><b>agentic-retrieval</b> — Cross-corpus agentic retrieval on Vertex AI Agent Runtime</summary>
 <br>
 
-Multi-agent system that routes queries across financial document corpora using planning + retrieval agents. 49/50 eval pass · hallucinations = 1.0
+Answers complex financial queries by searching across multiple document corpora — plans what to retrieve, fetches relevant context, and returns a grounded answer. 49/50 eval pass · hallucinations = 1.0
 
 `Google ADK` `Vertex AI` `RAG` `Multi-Agent` · [Repo →](https://github.com/Madhan-mohan14/agentic-retrieval)
 
@@ -41,7 +41,7 @@ Multi-agent system that routes queries across financial document corpora using p
 <summary><b>redis-faq</b> — ADK FAQ agent with Redis semantic cache</summary>
 <br>
 
-Zero LLM calls on cache hit — local HuggingFace embedding + HNSW distance check returns stored answer directly. Falls back to live ADK doc search on miss.
+Answers ADK questions instantly from a semantic cache — no LLM call needed for known questions. On a cache miss, researches the official ADK docs live and caches the answer for next time.
 
 `Redis` `Google ADK` `Semantic Cache` `FastAPI` · [Repo →](https://github.com/Madhan-mohan14/redis-faq)
 
