@@ -14,15 +14,11 @@
 ## 🚀 About Me
 
 ```
-🔭  Building    →  Production AI agents on Vertex AI Agent Runtime
+🔭  Building    →  Agentic AI systems for enterprise 
 🤖  Platform    →  Google ADK  ·  Gemini Enterprise Agent Platform
 📊  Focus       →  Build  ·  Scale  ·  Govern  ·  Optimize
-📍  Location    →  Chennai, India
+📍  Location    →  Anantapur, Andhra pradesh - India
 ```
-
-I engineer production-grade multi-agent systems — connecting **Google ADK**, **Gemini Enterprise**, and **Vertex AI** into pipelines that ship, scale, and stay secure.
-
----
 
 ## 🛠 Tech Stack
 
