@@ -28,6 +28,7 @@ I engineer production-grade multi-agent systems — connecting **Google ADK** an
 [![Google ADK](https://img.shields.io/badge/Google_ADK-latest-58A6FF?style=flat-square&logo=google&logoColor=white)](https://adk.dev/)
 [![Gemini Enterprise](https://img.shields.io/badge/Gemini_Enterprise-Agent_Platform-58A6FF?style=flat-square&logo=google&logoColor=white)](https://docs.cloud.google.com/gemini-enterprise-agent-platform)
 ![RAG Engine](https://img.shields.io/badge/RAG_Engine-Vertex_AI-58A6FF?style=flat-square&logo=google-cloud&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-Vertex_AI-58A6FF?style=flat-square&logo=google-cloud&logoColor=white)
 
 **🛠 Build & Deploy**
 
