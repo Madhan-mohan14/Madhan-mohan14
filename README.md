@@ -23,12 +23,15 @@ I engineer production-grade multi-agent systems — connecting **Google ADK**, *
 
 <div align="center">
 
-**🤖 Agent Platform**
+**🤖 Agent Framework**
 
 ![Google ADK](https://img.shields.io/badge/Google_ADK-latest-58A6FF?style=flat-square&logo=google&logoColor=white)
 ![Gemini Enterprise](https://img.shields.io/badge/Gemini_Enterprise-Agent_Platform-58A6FF?style=flat-square&logo=google&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-Agent_Runtime-1565C0?style=flat-square&logo=google-cloud&logoColor=white)
-![RAG Engine](https://img.shields.io/badge/RAG_Engine-Vertex_AI-1565C0?style=flat-square&logo=google-cloud&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-Agent_Framework-58A6FF?style=flat-square&logoColor=white)
+
+**💻 Coding Agents**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 
 **🔧 APIs & Tooling**
 
