@@ -19,7 +19,9 @@
 📍  Location    →  Anantapur, Andhra Pradesh - India
 ```
 
-I engineer production-grade multi-agent systems — connecting **Google ADK** and **Gemini Enterprise** into pipelines that ship, scale, and stay secure.
+- 🤖 Building production agentic AI systems with **Google ADK** and **Gemini Enterprise Agent Platform** — real pipelines that solve real problems, not demos
+- 🚀 Shipped **[Angularize.dev](https://angularize.dev)** beta — agents that build Angular applications in minutes, like Lovable but for Angular
+- 📡 Now exploring **GTM intelligence** — wiring AI agents into revenue and growth workflows
 
 ---
 
