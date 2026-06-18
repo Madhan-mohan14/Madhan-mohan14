@@ -51,7 +51,7 @@ Zero LLM calls on cache hit — local HuggingFace embedding + HNSW distance chec
 <summary><b>Agentic-BI</b> — Self-improving BI intelligence layer with A2A audit</summary>
 <br>
 
-FastMCP 7-tool server with A2A quality audit agent on Cloud Run and a RAG corpus that auto-refreshes every 24 hours. HITL Firestore queue for low-confidence answers.
+Agentic BI layer that answers business intelligence queries, audits every response for quality via a standalone audit agent, and improves its own knowledge base automatically over time.
 
 `FastMCP` `A2A` `BigQuery` `Google ADK` `Firestore` · [Repo →](https://github.com/Madhan-mohan14/Agentic-BI)
 
