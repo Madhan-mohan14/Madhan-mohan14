@@ -27,14 +27,13 @@ I engineer production-grade multi-agent systems — connecting **Google ADK**, *
 
 [![Google ADK](https://img.shields.io/badge/Google_ADK-latest-58A6FF?style=flat-square&logo=google&logoColor=white)](https://adk.dev/)
 ![Gemini Enterprise](https://img.shields.io/badge/Gemini_Enterprise-Agent_Platform-58A6FF?style=flat-square&logo=google&logoColor=white)
-![Antigravity SDK](https://img.shields.io/badge/Antigravity_SDK-Python_Framework-1C2333?style=flat-square&logoColor=white)
+![Google GenAI SDK](https://img.shields.io/badge/Google_GenAI_SDK-58A6FF?style=flat-square&logo=google&logoColor=white)
 
 **💻 Coding Agents**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![Antigravity CLI](https://img.shields.io/badge/Antigravity_CLI-Terminal--First-1C2333?style=flat-square&logo=windowsterminal&logoColor=white)
 ![Antigravity 2.0](https://img.shields.io/badge/Antigravity_2.0-Desktop_Orchestrator-1C2333?style=flat-square&logoColor=white)
-![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-Agentic_Dev_Env-1C2333?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 **🔧 APIs & Tooling**
 
