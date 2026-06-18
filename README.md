@@ -27,47 +27,35 @@
 
 ## 🏗 Featured Projects
 
-<div align="center">
+<details>
+<summary><b>agentic-retrieval</b> — Cross-corpus agentic retrieval on Vertex AI Agent Runtime</summary>
+<br>
 
-<table>
-<tr>
-<td valign="top" width="33%">
+Multi-agent system that routes queries across financial document corpora using planning + retrieval agents. 49/50 eval pass · hallucinations = 1.0
 
-**[agentic-retrieval](https://github.com/Madhan-mohan14/agentic-retrieval)**
+`Google ADK` `Vertex AI` `RAG` `Multi-Agent` · [Repo →](https://github.com/Madhan-mohan14/agentic-retrieval)
 
-Multi-agent system that routes queries across financial document corpora — cross-corpus agentic retrieval on Vertex AI Agent Runtime.
+</details>
 
-`Google ADK` `Vertex AI` `RAG` `Multi-Agent`
+<details>
+<summary><b>redis-faq</b> — ADK FAQ agent with Redis semantic cache</summary>
+<br>
 
-49/50 eval pass · hallucinations = 1.0
+Zero LLM calls on cache hit — local HuggingFace embedding + HNSW distance check returns stored answer directly. Falls back to live ADK doc search on miss.
 
-</td>
-<td valign="top" width="33%">
+`Redis` `Google ADK` `Semantic Cache` `FastAPI` · [Repo →](https://github.com/Madhan-mohan14/redis-faq)
 
-**[redis-faq](https://github.com/Madhan-mohan14/redis-faq)**
+</details>
 
-ADK FAQ agent with Redis semantic cache — zero LLM calls on cache hit; local HuggingFace embedding + HNSW distance check returns stored answer directly.
+<details>
+<summary><b>Agentic-BI</b> — Self-improving BI intelligence layer with A2A audit</summary>
+<br>
 
-`Redis` `Google ADK` `Semantic Cache` `FastAPI`
+FastMCP 7-tool server with A2A quality audit agent on Cloud Run and a RAG corpus that auto-refreshes every 24 hours. HITL Firestore queue for low-confidence answers.
 
-Sub-50ms hits · zero tokens on cache hit
+`FastMCP` `A2A` `BigQuery` `Google ADK` `Firestore` · [Repo →](https://github.com/Madhan-mohan14/Agentic-BI)
 
-</td>
-<td valign="top" width="33%">
-
-**[ComplianceGuard](https://github.com/Madhan-mohan14/data-privacy-env)** · [Live →](https://huggingface.co/spaces/Maddy140605/dataprivacy-env)
-
-RL environment training agents on 3-phase enterprise PII compliance: SCAN → CLASSIFY → REDACT. Meta PyTorch OpenEnv Hackathon finalist.
-
-`RL` `GRPO` `OpenEnv` `PII` `Qwen`
-
-Top 800 / 31,000+ teams · Round 1 Qualified
-
-</td>
-</tr>
-</table>
-
-</div>
+</details>
 
 ---
 
