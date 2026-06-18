@@ -2,11 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Hi+there%2C+I'm+Madhan+%F0%9F%91%8B;AI+Agent+Engineer;Build+%C2%B7+Scale+%C2%B7+Govern+%C2%B7+Optimize;Google+ADK+%7C+Gemini+Enterprise" alt="Typing SVG" />
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Madhan-mohan14&color=58A6FF&style=flat-square&label=profile+views)
-![Followers](https://img.shields.io/github/followers/Madhan-mohan14?color=58A6FF&style=flat-square&logo=github&label=followers)
-
 </div>
 
 ---
@@ -14,11 +9,15 @@
 ## 🚀 About Me
 
 ```
-🔭  Building    →  Agentic AI systems for enterprise 
+🔭  Building    →  Agentic AI systems for enterprise
 🤖  Platform    →  Google ADK  ·  Gemini Enterprise Agent Platform
 📊  Focus       →  Build  ·  Scale  ·  Govern  ·  Optimize
-📍  Location    →  Anantapur, Andhra pradesh - India
+📍  Location    →  Anantapur, Andhra Pradesh - India
 ```
+
+I engineer production-grade multi-agent systems — connecting **Google ADK**, **Gemini Enterprise**, and **Vertex AI** into pipelines that ship, scale, and stay secure.
+
+---
 
 ## 🛠 Tech Stack
 
@@ -56,7 +55,7 @@
 ## 📊 Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Madhan-mohan14&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Madhan-mohan14&show_icons=true&theme=algolia&count_private=true&include_all_commits=true&hide_border=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan-mohan14&layout=compact&theme=algolia&hide_border=true&langs_count=6" />
 </div>
 
@@ -68,25 +67,17 @@
 
 ---
 
-## 🌐 Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Madhan-mohan14/Madhan-mohan14/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
-</div>
-
----
-
-## 😄 Today's Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=algolia&hideBorder" alt="Jokes Card" />
-</div>
-
----
-
 ## 📈 Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhan-mohan14&bg_color=050F2C&color=58A6FF&line=58A6FF&point=F78166&area=true&hide_border=true" width="100%"/>
+
+---
+
+## 📅 Contributions
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/58A6FF/Madhan-mohan14" alt="Madhan's Contribution Chart" width="100%" />
+</div>
 
 ---
 
