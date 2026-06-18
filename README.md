@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Hi+there%2C+I'm+Madhan+%F0%9F%91%8B;AI+Agent+Engineer;Build+%C2%B7+Scale+%C2%B7+Govern+%C2%B7+Optimize;Google+ADK+%7C+Gemini+Enterprise" alt="Typing SVG" />
+<h1>Hi, I'm Madhan 👋</h1>
+<h3>AI Agent Engineer</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Google+ADK+%C2%B7+Gemini+Enterprise;Vertex+AI+%C2%B7+Agent+Runtime;Build+%C2%B7+Scale+%C2%B7+Govern+%C2%B7+Optimize;Production+RAG+%C2%B7+Multi-Agent+Systems" alt="Typing SVG" />
 
 </div>
 
