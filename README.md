@@ -25,6 +25,52 @@
 
 ---
 
+## 🏗 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**[agentic-retrieval](https://github.com/Madhan-mohan14/agentic-retrieval)**
+
+Multi-agent system that routes queries across financial document corpora — cross-corpus agentic retrieval on Vertex AI Agent Runtime.
+
+`Google ADK` `Vertex AI` `RAG` `Multi-Agent`
+
+49/50 eval pass · hallucinations = 1.0
+
+</td>
+<td valign="top" width="33%">
+
+**[redis-faq](https://github.com/Madhan-mohan14/redis-faq)**
+
+ADK FAQ agent with Redis semantic cache — zero LLM calls on cache hit; local HuggingFace embedding + HNSW distance check returns stored answer directly.
+
+`Redis` `Google ADK` `Semantic Cache` `FastAPI`
+
+Sub-50ms hits · zero tokens on cache hit
+
+</td>
+<td valign="top" width="33%">
+
+**[ComplianceGuard](https://github.com/Madhan-mohan14/data-privacy-env)**
+
+RL environment training agents on 3-phase enterprise PII compliance: SCAN → CLASSIFY → REDACT. Meta PyTorch OpenEnv Hackathon finalist.
+
+`RL` `GRPO` `OpenEnv` `PII` `Qwen`
+
+Top 800 / 31,000+ teams · Round 1 Qualified
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🛠 Tech Stack
 
 <div align="center">
