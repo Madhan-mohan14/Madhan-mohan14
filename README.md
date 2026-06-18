@@ -53,7 +53,7 @@ Answers ADK questions instantly from a semantic cache — no LLM call needed for
 
 Agentic BI layer that answers business intelligence queries, audits every response for quality via a standalone audit agent, and improves its own knowledge base automatically over time.
 
-`FastMCP` `A2A` `BigQuery` `Google ADK` `Firestore` · [Repo →](https://github.com/Madhan-mohan14/Agentic-BI)
+`FastMCP` `A2A` `BigQuery` `Google ADK` · [Repo →](https://github.com/Madhan-mohan14/Agentic-BI)
 
 </details>
 
