@@ -44,9 +44,9 @@ I engineer production-grade multi-agent systems — connecting **Google ADK**, *
 
 **📊 Evaluation**
 
-![adk eval](https://img.shields.io/badge/adk_eval-ADK-58A6FF?style=flat-square&logo=google&logoColor=white)
-![RAGAS](https://img.shields.io/badge/RAGAS-Eval_Framework-4A90D9?style=flat-square&logoColor=white)
-![Arize Phoenix](https://img.shields.io/badge/Arize_Phoenix-Observability-FF6B35?style=flat-square&logoColor=white)
+[![adk eval](https://img.shields.io/badge/adk_eval-ADK-58A6FF?style=flat-square&logo=google&logoColor=white)](https://adk.dev/evaluate/)
+[![RAGAS](https://img.shields.io/badge/RAGAS-Eval_Framework-4A90D9?style=flat-square&logoColor=white)](https://docs.ragas.io/en/latest/)
+[![Arize Phoenix](https://img.shields.io/badge/Arize_Phoenix-Observability-FF6B35?style=flat-square&logoColor=white)](https://arize.com/docs/phoenix)
 
 **🚀 GTM Intelligence**
 
