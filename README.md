@@ -15,7 +15,7 @@
 📍  Location    →  Anantapur, Andhra Pradesh - India
 ```
 
-I engineer production-grade multi-agent systems — connecting **Google ADK**, **Gemini Enterprise**, and **Antigravity** into pipelines that ship, scale, and stay secure.
+I engineer production-grade multi-agent systems — connecting **Google ADK** and **Gemini Enterprise** into pipelines that ship, scale, and stay secure.
 
 ---
 
@@ -27,14 +27,11 @@ I engineer production-grade multi-agent systems — connecting **Google ADK**, *
 
 [![Google ADK](https://img.shields.io/badge/Google_ADK-latest-58A6FF?style=flat-square&logo=google&logoColor=white)](https://adk.dev/)
 [![Gemini Enterprise](https://img.shields.io/badge/Gemini_Enterprise-Agent_Platform-58A6FF?style=flat-square&logo=google&logoColor=white)](https://docs.cloud.google.com/gemini-enterprise-agent-platform)
-![Google GenAI SDK](https://img.shields.io/badge/Google_GenAI_SDK-58A6FF?style=flat-square&logo=google&logoColor=white)
 ![RAG Engine](https://img.shields.io/badge/RAG_Engine-Vertex_AI-58A6FF?style=flat-square&logo=google-cloud&logoColor=white)
 
 **🛠 Build & Deploy**
 
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Antigravity 2.0](https://img.shields.io/badge/-Antigravity_2.0-121212?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAADPElEQVR4nK2UXWgcVRTH/+femdlsNh+bmDTEYiWY2DYV0RBobbEVtCroSwsbiuCjoOCLaCXUh9l98MkohbYPpQVtqRS2giD0KeInEjTQFlRKEStt0wRDNzWb3ezM7NxzZCYbkk02qQ8euA9zzz2/e/7nnDvAA8x1oSQPLZmMFgHh/zbB5lBrk0gCQaYuDDyVnHVesG83qcRc02U6/9PvEZRi9npreFskjQgy+d2+g4n7/qn0tBpI3UmAptV1y3PebMuP/7ARlDaC5a9kumWu8kXKd/bTTZiOGeDRAmur4H/LJjzS++X4bCOotRaYzcaXyK1Sy6uB6djnL7RwMzmqxzao2GXudeYPpILqywDOZ5cSkgdKdsVVxa/LFxfDrpHibJqb5lOqe56x7Z8i7ygVVLo8d/GmP/P6yKVLZm2sqgO5bvw9NZ7cPlPeOnR3oQ9/e4/jbrgdf6md+CO5CzdaBnEr+dhwa+twfxyDpZjGkrMAcsC9ctdwxevoKxd7UfW6QKaZAyKw40OQlopq72sLikMAbsBditlIMsF1aX//njFjet7x73caoEuTpGAL0Fz10V6dN9vI061B4TjR0+/mciSr67iSoQiBSJ7s2du9uPjQAVS3iJg2zaH+lcAT0ZEK62fJ7tg5o6pS1s6eFnu6E8A9ESGiGLwKmM3GHSN6eLC6mOrX6CQx6hsg8faVUboeHXnmI3nCYz5RtOznQqiBipaBCLg8GfVNyWbjjdBrfwm0pdX4+k8xavRqBMuLjtbEUfotVOr9hZCnSpbducDO86gvYQ0YywV2fDLbS2HyRSUp0qRPXzvmTMIVhRFwvFxRE0dp0kCd9ZSmksGhVz6WrchBYkb92JDYbB22dHqIveBHDvVntc5HD6K24tuJA5yteDwZaD1UYhxa8UVdrTVj11hhr2YnrzhBMPZr1z6g75d9dXNQ29s9JgcR4hwxG4I5PBGpESFVgz2iTfKM4gSI6a0YFkldC4tToFjez+/RuABvGFIwsE/u/lB6Il8s2TFNxiLrU2Jkrh6zv4pkIUe8DrYaCqFfRukyM44I8HkYYN0zXJH0X63B2eU5JGREYTD6rW6SWaNMo9JEVlP0Lw/xerfV4Gk2AAAAAElFTkSuQmCC&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-121212?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAADPElEQVR4nK2UXWgcVRTH/+femdlsNh+bmDTEYiWY2DYV0RBobbEVtCroSwsbiuCjoOCLaCXUh9l98MkohbYPpQVtqRS2giD0KeInEjTQFlRKEStt0wRDNzWb3ezM7NxzZCYbkk02qQ8euA9zzz2/e/7nnDvAA8x1oSQPLZmMFgHh/zbB5lBrk0gCQaYuDDyVnHVesG83qcRc02U6/9PvEZRi9npreFskjQgy+d2+g4n7/qn0tBpI3UmAptV1y3PebMuP/7ARlDaC5a9kumWu8kXKd/bTTZiOGeDRAmur4H/LJjzS++X4bCOotRaYzcaXyK1Sy6uB6djnL7RwMzmqxzao2GXudeYPpILqywDOZ5cSkgdKdsVVxa/LFxfDrpHibJqb5lOqe56x7Z8i7ygVVLo8d/GmP/P6yKVLZm2sqgO5bvw9NZ7cPlPeOnR3oQ9/e4/jbrgdf6md+CO5CzdaBnEr+dhwa+twfxyDpZjGkrMAcsC9ctdwxevoKxd7UfW6QKaZAyKw40OQlopq72sLikMAbsBditlIMsF1aX//njFjet7x73caoEuTpGAL0Fz10V6dN9vI061B4TjR0+/mciSr67iSoQiBSJ7s2du9uPjQAVS3iJg2zaH+lcAT0ZEK62fJ7tg5o6pS1s6eFnu6E8A9ESGiGLwKmM3GHSN6eLC6mOrX6CQx6hsg8faVUboeHXnmI3nCYz5RtOznQqiBipaBCLg8GfVNyWbjjdBrfwm0pdX4+k8xavRqBMuLjtbEUfotVOr9hZCnSpbducDO86gvYQ0YywV2fDLbS2HyRSUp0qRPXzvmTMIVhRFwvFxRE0dp0kCd9ZSmksGhVz6WrchBYkb92JDYbB22dHqIveBHDvVntc5HD6K24tuJA5yteDwZaD1UYhxa8UVdrTVj11hhr2YnrzhBMPZr1z6g75d9dXNQ29s9JgcR4hwxG4I5PBGpESFVgz2iTfKM4gSI6a0YFkldC4tToFjez+/RuABvGFIwsE/u/lB6Il8s2TFNxiLrU2Jkrh6zv4pkIUe8DrYaCqFfRukyM44I8HkYYN0zXJH0X63B2eU5JGREYTD6rW6SWaNMo9JEVlP0Lw/xerfV4Gk2AAAAAElFTkSuQmCC&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
