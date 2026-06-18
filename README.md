@@ -55,7 +55,7 @@ Sub-50ms hits · zero tokens on cache hit
 </td>
 <td valign="top" width="33%">
 
-**[ComplianceGuard](https://github.com/Madhan-mohan14/data-privacy-env)**
+**[ComplianceGuard](https://github.com/Madhan-mohan14/data-privacy-env)** · [Live →](https://huggingface.co/spaces/Maddy140605/dataprivacy-env)
 
 RL environment training agents on 3-phase enterprise PII compliance: SCAN → CLASSIFY → REDACT. Meta PyTorch OpenEnv Hackathon finalist.
 
